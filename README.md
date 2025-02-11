@@ -21,4 +21,4 @@ variable.
 
 ```
 
--Once you've added your db config as listed above, go to the src folder from your terminal and execute `npx sequilize db:create`
+- Once you've added your db config as listed above, go to the src folder from your terminal and execute `npx sequilize db:create`
